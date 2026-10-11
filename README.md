@@ -37,3 +37,16 @@ The original source-code repository is private. This public repository serves as
 ## 👨‍💻 Project
 
 **PDF Intelligence HuB AI** — AI-powered document interaction and analysis.
+## 📸 Screenshots
+
+### Application Interface
+
+![PDF Intelligence HuB AI - Home Screen](screenshots/home.png)
+
+### AI-Powered PDF Chat
+
+![AI PDF Chat](screenshots/pdf-chat.png)
+
+### Automatic Quiz Generation
+
+![Generated Quiz](screenshots/quiz.png)
