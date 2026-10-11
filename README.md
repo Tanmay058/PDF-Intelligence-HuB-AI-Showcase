@@ -41,12 +41,12 @@ The original source-code repository is private. This public repository serves as
 
 ### Application Interface
 
-![PDF Intelligence HuB AI - Home Screen](screenshots/home.png)
+![PDF Intelligence HuB AI - Home Screen](home.png)
 
 ### AI-Powered PDF Chat
 
-![AI PDF Chat](screenshots/pdf-chat.png)
+![AI PDF Chat](pdf-chat.png)
 
 ### Automatic Quiz Generation
 
-![Generated Quiz](screenshots/quiz.png)
+![Generated Quiz](quiz.png)
